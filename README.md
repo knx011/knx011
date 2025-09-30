@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Kauan Silva Gomes
 
-<!--
-**knx011/knx011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante em formação na área de tecnologia  
+💻 Desenvolvendo habilidades em programação, análise de dados e soluções digitais  
+🌱 Atualmente aprendendo: Python, Git, GitHub, HTML e lógica de programação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Em breve por aqui:
+- Projetos pessoais com foco em aprendizado e prática
+- Documentações organizadas com README detalhados
+- Repositórios com códigos comentados
+- Contribuições para a comunidade open source
+
+---
+
+## 📫 Onde me encontrar:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/kauan-gomes-185599225)
+- 📂 [GitHub](https://github.com/knx011)
+
+---
+
+Obrigado por visitar meu perfil!  
+Se quiser trocar ideias ou colaborar em projetos, sinta-se à vontade para me chamar. 🤝
